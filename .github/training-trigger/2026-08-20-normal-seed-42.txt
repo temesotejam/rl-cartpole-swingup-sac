@@ -1,0 +1,4 @@
+Training request
+preset: normal
+seed: 42
+reason: first 400,000-step SAC comparison run using the same swing-up task as PPO
